@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1x30R_scX0rmZmehE6BrheXYvxw4JOcpu
 """
 
-pip install yfinance
+
 
 import time
 import streamlit as st
