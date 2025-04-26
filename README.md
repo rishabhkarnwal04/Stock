@@ -84,7 +84,7 @@ python -m textblob.download_corpora
 3. **Insert Your News API Key**  
 In `stock.py`, replace:
 ```python
-newsapi = NewsApiClient(api_key='YOUR_NEWSAPI_KEY')
+newsapi = NewsApiClient(api_key='YOUR_KEY')
 ```
 with your **valid NewsAPI key**.
 
