@@ -71,7 +71,7 @@ By - Rishabh Karnwal
 
 1. **Clone the Repository**  
 ```bash
-git clone https://github.com/rishabhkarnwal04/stock.git
+git clone https://github.com/rishabhkarnwal04/Stock.git
 cd stock
 ```
 
