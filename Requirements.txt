@@ -1,0 +1,11 @@
+streamlit 
+newsapi-python
+textblob
+yfinance
+scikit-learn
+lightgbm
+catboost
+plotly
+pandas
+matplotlib
+numpy
