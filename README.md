@@ -1,7 +1,3 @@
-Here's a template you can use for your README:
-
----
-
 # Stock Market Prediction System
 
 This repository contains a stock market prediction system developed using Long Short-Term Memory (LSTM) in Recurrent Neural Networks (RNN). The model aims to predict stock prices based on historical data, making use of the time-series analysis capabilities of LSTMs.
